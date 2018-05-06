@@ -5,5 +5,7 @@ public class Jajar_GenjangAksi {
         Jajar_Genjang rl = new Jajar_Genjang();
         rl.alas   = 7;
         rl.tinggi = 9;
+        
+        rl.cetakInfo();
     }
 }

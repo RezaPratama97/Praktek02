@@ -15,4 +15,8 @@ public class Jajar_Genjang {
         keliling=alas*tinggi;
         return keliling;
     }
+    
+    void cetakKeliling(){
+        System.out.println("Kelilingnya adalah : "+hitungKeliling());
+    }
 }

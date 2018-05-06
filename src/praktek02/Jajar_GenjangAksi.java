@@ -8,5 +8,6 @@ public class Jajar_GenjangAksi {
         
         rl.cetakInfo();
         System.out.println("Keliling Jajar Genjang = "+rl.hitungKeliling());
+        rl.cetakKeliling();
     }
 }
